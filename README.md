@@ -14,4 +14,6 @@ As stated, the main purpose is to demo.
 
 This is a simple web project.
 
+Added copyright.
+
 ## How to Contribute
