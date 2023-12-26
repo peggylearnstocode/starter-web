@@ -17,3 +17,5 @@ This is a simple web project.
 Added copyright.
 
 ## How to Contribute
+
+Please fork this repo.
